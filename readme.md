@@ -22,7 +22,7 @@ A 3-day introduction and hands-on workshop to the current state of generative AI
 + Latent Diffusion in a nutshell starts a random (noise) image and then gradually adds details until it reaches a desired output (based on CLIP score)
 
 ## Workflows
-![images/dalle3-1.png](A classroom in Vienna with a guest lecturer teaching a classroom of 40 students about Artificial Intelligence)
+![A classroom in Vienna with a guest lecturer teaching a classroom of 40 students about Artificial Intelligence](images/dalle3-1.png)
 
 + [Dall-E 3 - OpenAI hates this one trick...](https://www.bing.com/images/create)
 + [MidJourney](https://www.midjourney.com/)
