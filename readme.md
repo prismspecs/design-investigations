@@ -12,10 +12,10 @@ A 3-day introduction and hands-on workshop to the current state of generative AI
 
 ## Introduction: GANs, CLIP, and latent diffusion
 + GANs (Generative Adversarial Networks) as predecessor to diffusion models
-    + [ThisPersonDoesNotExist.com](https://thispersondoesnotexist.com/)
     + [Sarah Friend - Perverse Affordances](https://www.art-gene.co.uk/sarah-friend-perverse-affordances/)
 	+ [Memo Akten](https://www.memo.tv/)
 	+ [Moreshshin Allahyari - Moon-Faced](https://morehshin.com/moonfaced/)
+    + [ThisPersonDoesNotExist.com](https://thispersondoesnotexist.com/)
 + CLIP model can predict the most relevant text description for a given image
     + [Kate Crawford & Trevor Paglen - ImageNet Roulette](https://paglen.studio/2020/04/29/imagenet-roulette/)
     + [Recommended reading: Excavating AI by Crawford & Paglen](https://excavating.ai/)
@@ -45,6 +45,12 @@ A 3-day introduction and hands-on workshop to the current state of generative AI
     + [OpenAI](https://openai.com)
     + [Bing Image Creator (Dall-E 3 for free)](https://www.bing.com/create)
 
+## Some AI art galleries
++ [Lexica](https://lexica.art/)
++ [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
++ [r/MidJourney](https://www.reddit.com/r/midjourney/)
++ [r/dalle2](https://www.reddit.com/r/dalle2/)
++ [CivitAI (gallery but primarily a model database)](https://civitai.com/)
 
 # Day 2: Deep dive into AI image generation
 
@@ -70,6 +76,7 @@ Automatic1111, also known as Stable Diffusion Web UI, is an interface for stable
 + [Mamadou Sow](https://www.instagram.com/p/Cru-6l0oc3X/?img_index=2)
 + [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
 + [block party](https://www.reddit.com/r/StableDiffusion/comments/14n83uz/block_party/) (embracing the glitches) (video)
++ [Holly Herndon](https://www.instagram.com/p/CoZnpIEI2cr/?hl=en)
 + [Marvel show "Secret Invasion" uses Stable Diffusion for opening credits](https://www.reddit.com/r/StableDiffusion/comments/14f2lxu/new_marvel_show_secret_invasion_uses_stable/)
 
 ## Free Discovery Time
@@ -117,41 +124,51 @@ Organic, metal, abstract, architectural, portrait
 This is a time to discuss any thoughts students have considered since yesterday, and to address any outstanding questions or concerns.
 
 ## Introduction to Large Language Models (LLMs)
-Natural Language Processing (NLP)
-Contemporary LLM applications
-Chatbots (including ChatGPT)
-Content generation
-Translation
-Art (show examples)
-General vs fine-tuned
-Hands-on with ChatGPT 3.5
-How it works
-Styling ("in the style of")
-Feedback
-Role-playing
-Strict parameters
-Exercise: Generate text using strong restrictions. Some ideas: "using only words without the letter 'e'", "respond only using emojis", "write as though you are out of breath and can only speak in short three or four word sentences"
-"Explain gravity, but write as though you are out of breath and can only speak in short three or four word sentences"
-Other symbolic languages
-Emojis, "draw using ASCII", etc.
-Break for Lunch
-ChatGPT exercise
++ Natural Language Processing (NLP)
++ Contemporary LLM applications
+	+ Chatbots (including ChatGPT)
+	+ Content generation
+	+ Translation
+	+ Art (show examples)
++ General vs fine-tuned
+
+## Hands-on with ChatGPT 3.5
++ How it works
++ Styling ("in the style of")
++ Feedback
++ Role-playing
++ Strict parameters
+	+ Exercise: Generate text using strong restrictions. Some ideas: "using only words without the letter 'e'", "respond only using emojis", "write as though you are out of breath and can only speak in short three or four word sentences"
+		+ "Explain gravity, but write as though you are out of breath and can only speak in short three or four word sentences"
++ Other symbolic languages
+	+ Emojis, "draw using ASCII", etc.
+
+## Break for Lunch
+
+## ChatGPT exercise
 AI Collaborative Storytelling
-Students work individually or in groups
-Start a collaborative story in which each group writes a sentence or a short paragraph
-After each contribution, they pass the story to ChatGPT to continue the narrative
-Continue this process, alternating between human contributions and AI-generated text
-Afterwards, we discuss the evolving story, the blend of human and AI creativity, and any surprising elements
-Discussion
-What it won't do
-Do Anything Now (DAN) ChatGPT hacks
-List of ChatGPT jailbreaks
-Break
-Exercise
++ Students work individually or in groups
++ Start a collaborative story in which each group writes a sentence or a short paragraph
++ After each contribution, they pass the story to ChatGPT to continue the narrative
++ Continue this process, alternating between human contributions and AI-generated text
++ Afterwards, we discuss the evolving story, the blend of human and AI creativity, and any surprising elements
+
+## Discussion
++ What it won't do
++ Do Anything Now (DAN) ChatGPT hacks
+	+ [List of ChatGPT jailbreaks](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516#chat-gpt-dan-and-other-jailbreaks)
+
+## Break
+
+## Exercise
 In groups of 2-4 people, use ChatGPT and Stable Diffusion together to create a vision of the future. This can take the form of a speculative film (trailer, poster, whatever), a dystopic advertising campaign, a fashion line for robot babies, an insurrectionist revolutionary political campaign flyer set in 2058, or anything else you feel like.
-Some more tools, art, and things to be aware of
+
+## Some more tools, art, and things to be aware of
 A brief presentation of AI tools, etc. that you might find interesting, which you can research further in your own time.
-Goodbye for now, share-outs, last thoughts
++ [OpArt in Stable Diffusion](https://weirdwonderfulai.art/tutorial/spiral-optical-illusion-image-generation-stable-diffusion/)
+
+
+## Goodbye for now, share-outs, last thoughts
 
 
 
