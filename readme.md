@@ -19,6 +19,7 @@ A 3-day introduction and hands-on workshop to the current state of generative AI
 + CLIP model can predict the most relevant text description for a given image
     + [Kate Crawford & Trevor Paglen - ImageNet Roulette](https://paglen.studio/2020/04/29/imagenet-roulette/)
     + [Recommended reading: Excavating AI by Crawford & Paglen](https://excavating.ai/)
+    + [CLIP Interrogator](https://huggingface.co/spaces/pharma/CLIP-Interrogator)
 + Latent Diffusion in a nutshell starts a random (noise) image and then gradually adds details until it reaches a desired output (based on CLIP score)
 
 ## Workflows
@@ -37,7 +38,10 @@ A 3-day introduction and hands-on workshop to the current state of generative AI
 + [SD 2.1 txt2img on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 
 ## Setup Accounts
-+ Create accounts/make sure everything works for RunDiffusion
++ Create accounts/make sure everything works
+    + [RunDiffusion.com](https://rundiffusion.com)
+    + [OpenAI](https://openai.com)
+    + [Bing Image Creator (Dall-E 3 for free)](https://www.bing.com/create)
 
 
 # Day 2: Deep dive into AI image generation
@@ -50,6 +54,7 @@ Automatic1111, also known as Stable Diffusion Web UI, is an interface for stable
 
 + Demonstration/How it works with hands-on learning
 + "Prompt engineering"
+![picard](images/picard.jpg)
 + Seeds
 + Img2Img
 + Style Transfer
@@ -62,8 +67,8 @@ Automatic1111, also known as Stable Diffusion Web UI, is an interface for stable
 	+ [Link to artist's instagram](https://www.instagram.com/stelfiett/)
 + [Mamadou Sow](https://www.instagram.com/p/Cru-6l0oc3X/?img_index=2)
 + [r/StableDiffusion](https://www.reddit.com/r/StableDiffusion/)
-+ Man simulates time travel thanks to Stable Diffusion image synthesis
-+ Link to artist's instagram
++ [block party](https://www.reddit.com/r/StableDiffusion/comments/14n83uz/block_party/) (embracing the glitches) (video)
++ [Marvel show "Secret Invasion" uses Stable Diffusion for opening credits](https://www.reddit.com/r/StableDiffusion/comments/14f2lxu/new_marvel_show_secret_invasion_uses_stable/)
 
 ## Free Discovery Time
 Play around, ask questions, share results
@@ -76,30 +81,40 @@ Break
 + Mat Dryhurt & Holly Herndon's [Have I Been Trained?](https://haveibeentrained.com/)
 
 # Day 3: More Stable Diffusion
-Check-ins, discussion
+## Check-ins, discussion
 This is a time to discuss any thoughts students have considered since yesterday, and to address any outstanding questions or concerns.
-Advanced Prompt Engineering
-Prompt syntax
-Negative words, adding weight, ordering, etc
-[from:to:when]
-Helpful prompt engineering guide
-Prompt syntax guide
-SD prompt templates
-InvokeAI official prompting guide
-Exercise: Precision
+
+## Advanced Prompt Engineering
++ Prompt syntax
++ Negative words, adding weight, ordering, etc
++ [from:to:when]
++ [Helpful prompt engineering guide](https://prompthero.com/stable-diffusion-prompt-guide)
++ [Prompt syntax guide](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#attentionemphasis)
++ [SD prompt templates](https://github.com/Dalabad/stable-diffusion-prompt-templates)
++ [InvokeAI official prompting guide](https://github.com/invoke-ai/InvokeAI/blob/main/docs/features/PROMPTS.md)
+
+## Exercise: Precision
 Given an image, students must faithfully reproduce it using prompt engineering (no inpainting allowed?)
-Video
+
+## Video
 Small demo of Deforum extension for A1111
-Break for Lunch
-Exercise: Intentional Image Creation
+
+## Break for Lunch
+
+## Exercise: Intentional Image Creation
 Produce 5~ original images given the following categories:
 Organic, metal, abstract, architectural, portrait
-Break
-Share-outs, discussion
-Day 3: Large Language Models/ChatGPT
-Check-ins, discussion
+
+## Break
+
+## Share-outs, discussion
+
+# Day 3: Large Language Models/ChatGPT
+
+## Check-ins, discussion
 This is a time to discuss any thoughts students have considered since yesterday, and to address any outstanding questions or concerns.
-Introduction to Large Language Models (LLMs)
+
+## Introduction to Large Language Models (LLMs)
 Natural Language Processing (NLP)
 Contemporary LLM applications
 Chatbots (including ChatGPT)
