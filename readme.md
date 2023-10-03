@@ -34,6 +34,8 @@ A 3-day introduction and hands-on workshop to the current state of generative AI
     + Automatic1111
     + InvokeAI
 
+![duolingo trail cam](images/duolingo.jpg)
+
 ## Quick hands-on
 + [SD 2.1 txt2img on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 
