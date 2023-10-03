@@ -3,11 +3,6 @@
 ## Overview
 A 3-day introduction and hands-on workshop to the current state of generative AI models for text and 2-d images. Students will be shown various AI art projects that take imaginative and critical approaches to the field, and then transition to a hands-on workshop which allows them to experiment with the tech in a series of playful challenges.
 
-+ Day 1 (Tuesday): Half day (2-2:45 and 4-6pm) so make this more playful
-+ Day 2 (Wednesday): Full day 10-6
-+ Day 3 (Thursday): Full day 10-6
-+ Day 4 (Friday): 10-12, spillover time
-
 # Day 1: Introduction
 
 ## Introduction: GANs, CLIP, and latent diffusion
