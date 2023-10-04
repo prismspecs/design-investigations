@@ -9,6 +9,7 @@ A 3-day introduction and hands-on workshop to the current state of generative AI
 + [Automatic1111 / stable-diffusion-web-ui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
     + [skip to automatic Windows installation](https://github.com/AUTOMATIC1111/stable-diffusion-webui#automatic-installation-on-windows)
 + [InvokeAI](https://github.com/invoke-ai/InvokeAI)
++ [Photoshop plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin)
 
 # Day 1: Introduction
 
