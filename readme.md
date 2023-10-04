@@ -1,5 +1,7 @@
 # Workshop: An introduction to generative models
 
+[Join the Signal Group (image sharing etc)](https://signal.group/#CjQKIDwfAOSwUxIJEdGx9si-FCE9dYJwHJBI18vNM1QuDlmaEhBpvm4nC07huDmT62pVxyUu)
+
 ## Overview
 A 3-day introduction and hands-on workshop to the current state of generative AI models for text and 2-d images. Students will be shown various AI art projects that take imaginative and critical approaches to the field, and then transition to a hands-on workshop which allows them to experiment with the tech in a series of playful challenges.
 
@@ -61,6 +63,11 @@ Reverse engineering image prompts (show an image, guess a prompt): Attempt to re
 
 ## Getting Started with A1111
 Automatic1111, also known as Stable Diffusion Web UI, is an interface for stable diffusion based image generation models. Whereas Dall-E and MidJourney are closed, proprietary systems, "stable diffusion" is an open constellation of various interfaces and models. This makes it more complicated to use but much more powerful and versatile. SD is far more advanced than the others, including the ability to create video, run custom scripts, make seamless textures, and more.
+
+## Models cheatsheet
+For now I would suggest:
++ sd_xl_base_1.0
++ v1/StableDiffusion1.5
 
 + Demonstration/How it works with hands-on learning
 + "Prompt engineering"
