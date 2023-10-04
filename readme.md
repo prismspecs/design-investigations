@@ -88,19 +88,8 @@ For now I would suggest:
 + [Holly Herndon](https://www.instagram.com/p/CoZnpIEI2cr/?hl=en)
 + [Marvel show "Secret Invasion" uses Stable Diffusion for opening credits](https://www.reddit.com/r/StableDiffusion/comments/14f2lxu/new_marvel_show_secret_invasion_uses_stable/)
 
-## Free Discovery Time
-Play around, ask questions, share results
+## Exercise: Talk a walk, take photos, interrogate CLIP
 
-Break
-
-## Share-outs/Discussion
-+ Deepfakes
-+ ML art as theft/copyright concerns
-+ Mat Dryhurt & Holly Herndon's [Have I Been Trained?](https://haveibeentrained.com/)
-
-# Day 3: More Stable Diffusion
-## Check-ins, discussion
-This is a time to discuss any thoughts students have considered since yesterday, and to address any outstanding questions or concerns.
 
 ## Advanced Prompt Engineering
 + Prompt syntax
@@ -111,6 +100,15 @@ This is a time to discuss any thoughts students have considered since yesterday,
 + [Prompt syntax guide](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#attentionemphasis)
 + [SD prompt templates](https://github.com/Dalabad/stable-diffusion-prompt-templates)
 + [InvokeAI official prompting guide](https://github.com/invoke-ai/InvokeAI/blob/main/docs/features/PROMPTS.md)
+
+## Share-outs/Discussion
++ Deepfakes
++ ML art as theft/copyright concerns
++ Mat Dryhurt & Holly Herndon's [Have I Been Trained?](https://haveibeentrained.com/)
+
+# Day 3: More Stable Diffusion
+## Check-ins, discussion
+This is a time to discuss any thoughts students have considered since yesterday, and to address any outstanding questions or concerns.
 
 ## Exercise: Precision
 Given an image, students must faithfully reproduce it using prompt engineering (no inpainting allowed?)
