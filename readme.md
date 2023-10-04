@@ -3,6 +3,11 @@
 ## Overview
 A 3-day introduction and hands-on workshop to the current state of generative AI models for text and 2-d images. Students will be shown various AI art projects that take imaginative and critical approaches to the field, and then transition to a hands-on workshop which allows them to experiment with the tech in a series of playful challenges.
 
+## Note for those who want to install Stable Diffusion at home:
++ [Automatic1111 / stable-diffusion-web-ui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+    + [skip to automatic Windows installation](https://github.com/AUTOMATIC1111/stable-diffusion-webui#automatic-installation-on-windows)
++ [InvokeAI](https://github.com/invoke-ai/InvokeAI)
+
 # Day 1: Introduction
 
 ## Introduction: GANs, CLIP, and latent diffusion
@@ -10,6 +15,7 @@ A 3-day introduction and hands-on workshop to the current state of generative AI
     + [Sarah Friend - Perverse Affordances](https://www.art-gene.co.uk/sarah-friend-perverse-affordances/)
 	+ [Memo Akten](https://www.memo.tv/)
 	+ [Moreshshin Allahyari - Moon-Faced](https://morehshin.com/moonfaced/)
+    + [Grayson Earle - Inference Engine](https://graysonearle.com/inference-engine/)
     + [ThisPersonDoesNotExist.com](https://thispersondoesnotexist.com/)
 + CLIP model can predict the most relevant text description for a given image
     + [Kate Crawford & Trevor Paglen - ImageNet Roulette](https://paglen.studio/2020/04/29/imagenet-roulette/)
@@ -31,14 +37,20 @@ A 3-day introduction and hands-on workshop to the current state of generative AI
 
 ![duolingo trail cam](images/duolingo.jpg)
 
-## Quick hands-on
-+ [SD 2.1 txt2img on HuggingFace](https://huggingface.co/spaces/stabilityai/stable-diffusion)
-
 ## Setup Accounts
 + Create accounts/make sure everything works
     + [RunDiffusion.com](https://rundiffusion.com)
     + [OpenAI](https://openai.com)
     + [Bing Image Creator (Dall-E 3 for free)](https://www.bing.com/create)
+
+# Day 2: Deep dive into AI image generation
+
+## Game/Exercise: Guess the Prompt
+Reverse engineering image prompts (show an image, guess a prompt): Attempt to recreate an image as accurately as possible by coming up with a prompt for SD. The class will see the same image.
+
+![](images/constructionworkers.jpg)
+![](images/piza.webp)
+![](images/tiananmen.jpg)
 
 ## Some AI art galleries
 + [Lexica](https://lexica.art/)
@@ -46,11 +58,6 @@ A 3-day introduction and hands-on workshop to the current state of generative AI
 + [r/MidJourney](https://www.reddit.com/r/midjourney/)
 + [r/dalle2](https://www.reddit.com/r/dalle2/)
 + [CivitAI (gallery but primarily a model database)](https://civitai.com/)
-
-# Day 2: Deep dive into AI image generation
-
-## Game/Exercise: Guess the Prompt
-Reverse engineering image prompts (show an image, guess a prompt): Attempt to recreate an image as accurately as possible by coming up with a prompt for SD. The class will see the same image.
 
 ## Getting Started with A1111
 Automatic1111, also known as Stable Diffusion Web UI, is an interface for stable diffusion based image generation models. Whereas Dall-E and MidJourney are closed, proprietary systems, "stable diffusion" is an open constellation of various interfaces and models. This makes it more complicated to use but much more powerful and versatile. SD is far more advanced than the others, including the ability to create video, run custom scripts, make seamless textures, and more.
@@ -92,6 +99,7 @@ This is a time to discuss any thoughts students have considered since yesterday,
 + Prompt syntax
 + Negative words, adding weight, ordering, etc
 + [from:to:when]
++ "a [cow|horse] in a field"
 + [Helpful prompt engineering guide](https://prompthero.com/stable-diffusion-prompt-guide)
 + [Prompt syntax guide](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Features#attentionemphasis)
 + [SD prompt templates](https://github.com/Dalabad/stable-diffusion-prompt-templates)
