@@ -69,9 +69,9 @@ For now I would suggest:
 + sd_xl_base_1.0
 + v1/StableDiffusion1.5
 
-+ Demonstration/How it works with hands-on learning
-+ "Prompt engineering"
 ![picard](images/picard.jpg)
+## A1111 + InvokeAI Demo
++ "Prompt engineering"
 + Seeds
 + Img2Img
 + Style Transfer
