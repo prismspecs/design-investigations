@@ -108,11 +108,9 @@ For now I would suggest:
 + Mat Dryhurt & Holly Herndon's [Have I Been Trained?](https://haveibeentrained.com/)
 
 # Day 3: More Stable Diffusion
+
 ## Check-ins, discussion
 This is a time to discuss any thoughts students have considered since yesterday, and to address any outstanding questions or concerns.
-
-## Exercise: Precision
-Given an image, students must faithfully reproduce it using prompt engineering (no inpainting allowed?)
 
 ## Video
 Small demo of Deforum extension for A1111
@@ -138,8 +136,19 @@ This is a time to discuss any thoughts students have considered since yesterday,
 	+ Chatbots (including ChatGPT)
 	+ Content generation
 	+ Translation
-	+ Art (show examples)
+	+ Art
+        + [Allison Perrish](https://portfolio.decontextualize.com/)
+        + [Ross Goodwin - Car Poetry](https://www.youtube.com/watch?v=TqsW0PMd8R0)
+        + [Ross Goodwin - word.camera](https://rossgoodwin.com/narratedreality/)
+        + [American Artist - Sandy Speaks](https://mcachicago.org/Publications/Websites/I-Was-Raised-On-The-Internet/Artworks/American-Artist-Sandy-Speaks-2016)
 + General vs fine-tuned
+
+## Further Reading/Watching/Learning on LLMs
++ [Markov Chains](https://www.youtube.com/watch?v=E4WcBWuQQws)
++ [Fine-tuning GPT](https://platform.openai.com/docs/guides/fine-tuning/use-a-fine-tuned-model)
++ [LLaMA.cpp](https://github.com/ggerganov/llama.cpp)
+	+ [One step installer](https://replicate.com/blog/run-llama-locally)
+	+ Also [OLLaMa for MacOS](https://ollama.ai/)
 
 ## Hands-on with ChatGPT 3.5
 + How it works
@@ -166,11 +175,12 @@ AI Collaborative Storytelling
 + What it won't do
 + Do Anything Now (DAN) ChatGPT hacks
 	+ [List of ChatGPT jailbreaks](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516#chat-gpt-dan-and-other-jailbreaks)
-
+    + [Grandma jailbreak](https://www.artisana.ai/articles/users-unleash-grandma-jailbreak-on-chatgpt)
+    
 ## Break
 
-## Exercise
-In groups of 2-4 people, use ChatGPT and Stable Diffusion together to create a vision of the future. This can take the form of a speculative film (trailer, poster, whatever), a dystopic advertising campaign, a fashion line for robot babies, an insurrectionist revolutionary political campaign flyer set in 2058, or anything else you feel like.
+## Group mini-project
+In your workshop groups, use ChatGPT and Stable Diffusion together (or any AI image generator/LLM) to create a vision of the future. This can take the form of a speculative film (trailer, poster, whatever), a dystopic advertising campaign, a fashion line for robots, an insurrectionist revolutionary political campaign flyer set in 2058, or anything else you feel like.
 
 ## Some more tools, art, and things to be aware of
 A brief presentation of AI tools, etc. that you might find interesting, which you can research further in your own time.
