@@ -1,3 +1,5 @@
++ [Nooscope.ai text](nooscope.pdf)
+
 # Workshop: An introduction to generative models
 
 [Join the Signal Group (image sharing etc)](https://signal.group/#CjQKIDwfAOSwUxIJEdGx9si-FCE9dYJwHJBI18vNM1QuDlmaEhBpvm4nC07huDmT62pVxyUu)
